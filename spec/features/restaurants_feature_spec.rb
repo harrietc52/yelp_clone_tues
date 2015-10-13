@@ -70,10 +70,4 @@ feature 'restaurants' do
 
 
 
-
-
-
-
-
-
 end
